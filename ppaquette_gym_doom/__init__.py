@@ -254,7 +254,7 @@ Allowed actions:
 add_task(
     id='{}/DoomHealthGathering-v0'.format(USERNAME),
     group='doom',
-    summary='Mission #5 - Learn to grad medkits to survive as long as possible.',
+    summary='Mission #5 - Learn to grab medkits to survive as long as possible.',
     description="""
 This map is a guide on how to survive by collecting health packs.
 It is a rectangle with green, acidic floor which hurts the player
